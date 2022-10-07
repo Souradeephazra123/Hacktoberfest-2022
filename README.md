@@ -1,6 +1,15 @@
-# How to contribute in Hacktoberfest
-1. You can contribute in terms of Code
-2. You can contribute in terms of improving Documentation
+## WHAT TO CONTRIBUTE ?
+   1. Help me build a repository for the BEST SOLUTIONS of most commonly asked interview questions of COMPETITIVE PROGRAMMING.
+   2. Have you ever solved a competitive programming question? Add its solution with problem statement. Make sure it must be a correct and efficient solution.
+   3. It can be in any programming language. What matters is, it should be useful.
+   
+## GUIDELINES BEFORE YOU START CONTRIBUTING:
+  1. QUANTITY IS FUN, QUALITY IS KEY. So, focus on quality contribution
+  2. Don't contribute spam. I will not merge it and it will not benefit you in the long term
+  3. Contribute to help community not just for swags
+
+### READ GUIDELINES from official website before you start
+https://hacktoberfest.com/participation/
 
 
 # STEP BY STEP GUIDE TO HACKTOBERFEST PULL REQUEST:
@@ -92,13 +101,5 @@ Now submit the pull request.
 ![Annotation 2022-10-06 154813](https://user-images.githubusercontent.com/80174852/194636342-7e09b569-e9af-4fd6-a762-ec8aa32af917.png)
 
 Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
-
-## GUIDELINES BEFORE YOU START CONTRIBUTING:
-1. QUANTITY IS FUN, QUALITY IS KEY. So, focus on quality contribution
-2. Don't contribute spam. I will not merge it and it will not benefit you in the long term
-3. Contribute to help community
-
-### MUST READ GUIDELINES BEFORE YOU START
-https://hacktoberfest.com/participation/
 
 *Good luck. You can do it*
