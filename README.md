@@ -91,7 +91,7 @@ git push origin -u your-branch-name
 replacing `your-branch-name` with the name of the branch you created earlier.
 
 
-## Submit your changes for review
+## 6. Submit your changes for review
 
 If you go to your repository on GitHub, you'll see a `Compare & pull request` button. Click on that button.
 ![Annotation 2022-10-06 154813](https://user-images.githubusercontent.com/80174852/194636271-f2ae178e-c583-4f28-861d-22782c1e708f.png)
