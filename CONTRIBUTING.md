@@ -2,7 +2,7 @@
 
 ## WHAT TO CONTRIBUTE ?
    1. Help me build a repository for the BEST SOLUTIONS of COMPETITIVE PROGRAMMING questions.
-   2. Have you ever solved a competitive programming question? Add its solution with problem statement or reference to source eg leetcode problem number etc.. Make sure it must be a correct and efficient solution.
+   2. Have you ever solved a competitive programming question? Add its solution with problem statement or reference to source  Example: leetcode problem number or hackerrank problem code etc.. Make sure it must be a correct and efficient solution.
    3. It can be in any programming language. What matters is, it should be useful.
    
 ## GUIDELINES BEFORE YOU START CONTRIBUTING:
