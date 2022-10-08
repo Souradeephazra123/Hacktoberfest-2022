@@ -6,9 +6,10 @@
    3. It can be in any programming language. What matters is, it should be useful.
    
 ## GUIDELINES BEFORE YOU START CONTRIBUTING:
-  1. QUANTITY IS FUN, QUALITY IS KEY. So, focus on quality contribution
-  2. Don't contribute spam. I will not merge it and it will not benefit you in the long term
-  3. Contribute to help community not just for swags
+   1. I will not merge basic programming questions like hello world etc. Only COMPETITIVE PROGRAMMING questions are accepted with proper reference to problem.
+   2. QUANTITY IS FUN, QUALITY IS KEY. So, focus on quality contribution
+   3. Don't contribute spam. I will not merge it and it will not benefit you in the long term
+   4. Contribute to help community not just for swags
 
 ### READ GUIDELINES from official website before you start
 https://hacktoberfest.com/participation/
