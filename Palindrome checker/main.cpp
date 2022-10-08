@@ -1,11 +1,10 @@
 #include <iostream>
-
 using namespace std;
 
 int main()
 {
      int n;
-    cout<<"enter the array size greater than 0"<<endl;
+    cout<<"Enter the array size greater than 0: "<<endl;
     cin>>n;
     const int number=n;
     int a[number];
@@ -27,11 +26,11 @@ int main()
     }
     if(p==1)
     {
-        cout<<"congrats ! it's a panadrome"<<endl;
+        cout<<"congrats ! it's a palindrome"<<endl;
     }
     else
     {
-        cout<<"it is not a panadrome"<<endl;
+        cout<<"it is not a palindrome"<<endl;
     }
     return 0;
 }
