@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/80174852/194639960-94c987f4-00b5-466e-b20d-d1b991442477.png)
-
-# THIS REPOSITORY HAS BEEN "EXCLUDED" FROM HACKTOBERFEST 
+----
+# THIS REPOSITORY HAS BEEN "EXCLUDED" FROM HACKTOBERFEST ❗❗❗❗ 
 
 ## WHAT TO CONTRIBUTE ?
    1. Help me build a repository for the BEST SOLUTIONS of COMPETITIVE PROGRAMMING questions.
